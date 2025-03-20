@@ -1,3 +1,4 @@
+# Python code
 import pygame
 import time
 import random
